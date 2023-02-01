@@ -1,0 +1,16 @@
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.exe
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.deps.json
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.runtimeconfig.json
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.runtimeconfig.dev.json
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.dll
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\ref\KampIntro2.dll
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\bin\Debug\net5.0\KampIntro2.pdb
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.csproj.AssemblyReference.cache
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.AssemblyInfoInputs.cache
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.AssemblyInfo.cs
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.csproj.CoreCompileInputs.cache
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.dll
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\ref\KampIntro2.dll
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.pdb
+C:\Users\hasan kara\source\repos\KampIntro2\KampIntro2\obj\Debug\net5.0\KampIntro2.genruntimeconfig.cache
